@@ -22,7 +22,7 @@ export const SkillsH1 = styled.h1`
   color: black;
   @media screen and (max-width: 480px) {
     font-size: 2rem;
-    margin-bottom: 10%;
+    margin-bottom: 30%;
   }
 `;
 
